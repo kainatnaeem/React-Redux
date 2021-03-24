@@ -1,6 +1,6 @@
-/*
-React-Redux
-create your project
+
+<h1> React-Redux </h1>
+<h4> create your project <h4/>
 then install npm i redux
 
 First of all inside our index.js we have : two actions userAdded and userRemoved check both in the console these functions are defined inside actionBody.js file 
