@@ -43,4 +43,4 @@ actiontype is created in order to easily call our actions
 store.js:
 inside store we have calling a  function in which we are passing reducer function as arugmnt
 
-*/
+#modified
